@@ -10,8 +10,8 @@
 * 🔭 猫猫子感兴趣的方向：服务器后端、计算机图形学
   
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bismarckkk&count_private=true&show_icons=true" />
-    &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismarckkk&hide=CSS&layout=compact" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bismarckkk&count_private=true&show_icons=true" />
+    &nbsp; <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismarckkk&hide=CSS&layout=compact" />
 </div>
 
 ### 与我联系
